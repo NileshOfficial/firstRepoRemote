@@ -3,3 +3,4 @@
 testing pull in README.md
 testing diff with staged version
 stash 1
+creating diverge in master
